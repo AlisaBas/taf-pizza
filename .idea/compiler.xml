@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="taf-pizza" target="1.5" />
+      <module name="taf-pizza" target="18" />
     </bytecodeTargetLevel>
   </component>
 </project>
